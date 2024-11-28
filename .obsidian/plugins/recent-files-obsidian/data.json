@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Homepage/Homepage.md"
+    },
+    {
+      "basename": "Hackaton",
+      "path": "Hackaton/Hackaton.md"
+    },
+    {
+      "basename": "Game Theory",
+      "path": "Game Theory/Game Theory.md"
+    },
+    {
+      "basename": "DnD",
+      "path": "Deep Network Development/DnD.md"
+    },
+    {
+      "basename": "Coll. Int.",
+      "path": "Collective Intelligence/Coll. Int..md"
+    },
+    {
       "basename": "Swabber",
       "path": "Swabber/Swabber.md"
     },
@@ -19,26 +39,6 @@
     {
       "basename": "Meta Unlearning",
       "path": "Machine Unlearning/Meta Unlearning.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage/Homepage.md"
-    },
-    {
-      "basename": "Hackaton",
-      "path": "Hackaton/Hackaton.md"
-    },
-    {
-      "basename": "Coll. Int.",
-      "path": "Collective Intelligence/Coll. Int..md"
-    },
-    {
-      "basename": "DnD",
-      "path": "Deep Network Development/DnD.md"
-    },
-    {
-      "basename": "Game Theory",
-      "path": "Game Theory/Game Theory.md"
     }
   ],
   "omittedPaths": [],

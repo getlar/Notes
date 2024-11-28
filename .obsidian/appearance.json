@@ -1,1 +1,5 @@
-{}
+{
+  "accentColor": "#424342",
+  "cssTheme": "Atom",
+  "theme": "ctp-accent-light-flamingo"
+}
