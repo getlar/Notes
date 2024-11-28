@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e10e2357dcdf5436",
+        "id": "fbe37b6e91bf6b80",
         "type": "tabs",
         "children": [
           {
-            "id": "899bc8bad9506682",
+            "id": "0cce0c5ced08e638",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Unlearning/Meta Unlearning.md",
+                "file": "Swabber/Swabber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meta Unlearning"
+              "title": "Swabber"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Unlearning/Meta Unlearning.md",
+                "file": "Swabber/Swabber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Meta Unlearning"
+              "title": "Backlinks for Swabber"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Unlearning/Meta Unlearning.md",
+                "file": "Swabber/Swabber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Meta Unlearning"
+              "title": "Outgoing links from Swabber"
             }
           },
           {
@@ -149,28 +149,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Unlearning/Meta Unlearning.md"
+                "file": "Swabber/Swabber.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Meta Unlearning"
-            }
-          },
-          {
-            "id": "4fa0f434678252bd",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "title": "Outline of Swabber"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +177,22 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "899bc8bad9506682",
+  "active": "0cce0c5ced08e638",
   "lastOpenFiles": [
+    "Stockfish Chess/Stockfish.md",
+    "MARL Visualizer/MARLVIZ.md",
+    "Magma/Magma.md",
+    "Machine Unlearning/Meta Unlearning.md",
+    "Homepage/Homepage.md",
+    "Hackaton/Hackaton.md",
+    "Collective Intelligence/Coll. Int..md",
+    "Deep Network Development/DnD.md",
+    "Game Theory/Game Theory.md",
+    "Swabber/Swabber.md",
     "Notes/README.md",
     "Notes/LICENSE",
     "Notes",
     "vaswaniAttentionAllYou2023.md",
-    "Machine Unlearning/Meta Unlearning.md",
     "Stockfish Chess/Untitled",
     "MARL Visualizer",
     "Stockfish Chess",
