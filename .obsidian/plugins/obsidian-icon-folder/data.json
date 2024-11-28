@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBaby",
+      "LiAntenna",
+      "LiAperture",
+      "LiAxe",
+      "LiAxis3d"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Collective Intelligence": {
+    "iconName": "LiAxis3d",
+    "iconColor": "#4c6ebd"
+  },
+  "Deep Network Development": {
+    "iconName": "LiAxis3d",
+    "iconColor": "#b45e18"
+  },
+  "Game Theory": {
+    "iconName": "LiAxis3d",
+    "iconColor": "#e4b921"
+  },
+  "Hackaton": {
+    "iconName": "LiAperture",
+    "iconColor": "#6c13b4"
+  },
+  "Homepage": {
+    "iconName": "LiAperture",
+    "iconColor": "#584f3c"
+  },
+  "Machine Unlearning": {
+    "iconName": "LiAntenna",
+    "iconColor": "#1ea961"
+  },
+  "Magma": {
+    "iconName": "LiAntenna",
+    "iconColor": "#640707"
+  },
+  "MARL Visualizer": {
+    "iconName": "LiBaby",
+    "iconColor": "#34604d"
+  },
+  "Stockfish Chess": {
+    "iconName": "LiBaby",
+    "iconColor": "#6cbc93"
+  },
+  "Swabber": {
+    "iconName": "LiAntenna",
+    "iconColor": "#2f2173"
+  }
+}

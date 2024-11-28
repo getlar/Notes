@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1732800553599,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1732800616885,
+          "path": "Collective Intelligence"
+        },
+        {
+          "type": "folder",
+          "ctime": 1732800917820,
+          "path": "Deep Network Development"
+        },
+        {
+          "type": "folder",
+          "ctime": 1732800923175,
+          "path": "Game Theory"
+        }
+      ],
+      "title": "Teaching"
+    },
+    {
+      "type": "group",
+      "ctime": 1732800561743,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1732800957069,
+          "path": "Machine Unlearning"
+        },
+        {
+          "type": "folder",
+          "ctime": 1732800960432,
+          "path": "Magma"
+        },
+        {
+          "type": "folder",
+          "ctime": 1732800981544,
+          "path": "Swabber"
+        }
+      ],
+      "title": "Research"
+    },
+    {
+      "type": "group",
+      "ctime": 1732800567356,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1732800963507,
+          "path": "MARL Visualizer"
+        },
+        {
+          "type": "folder",
+          "ctime": 1732800978247,
+          "path": "Stockfish Chess"
+        }
+      ],
+      "title": "Mentoring"
+    },
+    {
+      "type": "group",
+      "ctime": 1732800936621,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1732800948802,
+          "path": "Hackaton"
+        },
+        {
+          "type": "folder",
+          "ctime": 1732800954015,
+          "path": "Homepage"
+        }
+      ],
+      "title": "Misc"
+    }
+  ]
+}
