@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swabber/Swabber.md",
+                "file": "Deep Network Development/2024-25-1/Assignment 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swabber"
+              "title": "Assignment 2"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swabber/Swabber.md"
+                "file": "Deep Network Development/2024-25-1/Assignment 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Swabber"
+              "title": "Outline of Assignment 2"
             }
           },
           {
@@ -190,16 +190,19 @@
   },
   "active": "0cce0c5ced08e638",
   "lastOpenFiles": [
-    "Homepage/Homepage.md",
-    "Hackaton/Hackaton.md",
-    "Game Theory/Game Theory.md",
+    "Magma/AAMAS 2025.md",
+    "Deep Network Development/2024-25-1/Assignment 2.md",
     "Deep Network Development/DnD.md",
+    "Deep Network Development/2024-25-1",
+    "Magma/Magma.md",
+    "Machine Unlearning/Meta Unlearning.md",
+    "Hackaton/Hackaton.md",
+    "Homepage/Homepage.md",
+    "Game Theory/Game Theory.md",
     "Collective Intelligence/Coll. Int..md",
     "Swabber/Swabber.md",
     "Stockfish Chess/Stockfish.md",
     "MARL Visualizer/MARLVIZ.md",
-    "Magma/Magma.md",
-    "Machine Unlearning/Meta Unlearning.md",
     "Notes/README.md",
     "Notes/LICENSE",
     "Notes",
@@ -210,7 +213,6 @@
     "Homepage",
     "Magma",
     "Hackaton",
-    "Deep Network Development",
-    "Game Theory"
+    "Deep Network Development"
   ]
 }
