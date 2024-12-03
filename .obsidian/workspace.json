@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage/Homepage.md",
+                "file": "Swabber/Swabber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Swabber"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage/Homepage.md"
+                "file": "Swabber/Swabber.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline of Swabber"
             }
           },
           {
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,6 +190,7 @@
   },
   "active": "0cce0c5ced08e638",
   "lastOpenFiles": [
+    "Homepage/Homepage.md",
     "Hackaton/Hackaton.md",
     "Game Theory/Game Theory.md",
     "Deep Network Development/DnD.md",
@@ -198,7 +200,6 @@
     "MARL Visualizer/MARLVIZ.md",
     "Magma/Magma.md",
     "Machine Unlearning/Meta Unlearning.md",
-    "Homepage/Homepage.md",
     "Notes/README.md",
     "Notes/LICENSE",
     "Notes",
